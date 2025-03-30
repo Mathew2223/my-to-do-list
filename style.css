@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#title_window{
+    color: rgb(120, 60, 250);
+    font-weight: 600;
+    font-size: 36px;
+    /* height: 0; */
+    font-family: Montserrat;
+}
